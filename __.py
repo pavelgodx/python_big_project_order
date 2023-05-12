@@ -1,10 +1,12 @@
 import _
 import ___
+import ____
 
 _ = _._
 
 for _ in range(_):
-    print(_)
+    if _ == _:
+        print(_)
 
 _ = _
 print(_)
@@ -37,3 +39,13 @@ def __(_):
 
 
 __(_)
+
+____._ = ____._
+
+_ = [_ for _ in range(____._)]
+
+_ = list(sorted(_))
+
+for _ in _:
+    if _:
+        print(_)
